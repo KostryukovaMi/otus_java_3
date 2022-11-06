@@ -1,4 +1,3 @@
-package ru.otus.java.hw;
 import java.util.Scanner;
 
 public class HomeWork_3 {
